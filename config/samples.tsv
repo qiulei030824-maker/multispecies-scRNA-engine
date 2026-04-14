@@ -1,0 +1,8 @@
+# Sample table format: sample_name   R1_file_path   R2_file_path
+# Replace the paths with your actual FASTQ file locations
+
+sample1	/path/to/sample1_R1.fastq.gz	/path/to/sample1_R2.fastq.gz
+sample2	/path/to/sample2_R1.fastq.gz	/path/to/sample2_R2.fastq.gz
+sample3	/path/to/sample3_R1.fastq.gz	/path/to/sample3_R2.fastq.gz
+sample4	/path/to/sample4_R1.fastq.gz	/path/to/sample4_R2.fastq.gz
+sample5	/path/to/sample5_R1.fastq.gz	/path/to/sample5_R2.fastq.gz
