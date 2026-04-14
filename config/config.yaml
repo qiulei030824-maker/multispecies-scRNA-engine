@@ -1,0 +1,8 @@
+# Genome directory - modify this to point to your STAR index
+genomeDir: /path/to/your/STAR_index
+
+# Number of threads for parallel processing
+threads: 36
+
+# Output directory for results
+outdir: ./results
